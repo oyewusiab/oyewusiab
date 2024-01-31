@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my coding world! I'm Adebayo Babatunde Oyewusi, aka Ayo. 🌟
+Welcome to my coding world! I'm Adebayo Babatunde Oyewusi, aka Bayo. 🌟
 
 - 👀 I’m like a detective in the coding universe, exploring human relationships, cracking problems, and currently diving deep into the fascinating realm of data analytics.
 - 🌱 I’m on an exciting journey learning the art of data analytics, mastering SQL, Sheets, Excel, Tableau, and R.
